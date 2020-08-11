@@ -1,0 +1,13 @@
+JavaScript Basic
+----------------
+1. JS Comment
+2. JS Variable
+3. JS Global Variable
+4. JS Data Types
+5. JS Operators
+6. JS If Statement
+7. JS Switch
+8. JS Loop
+9. JS Function
+
+//samsonjbandaru@gmail.com
